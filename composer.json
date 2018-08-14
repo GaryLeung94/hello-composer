@@ -1,5 +1,5 @@
 {
-  "name": "GaryLeung94/my-first-composer-package",
+  "name": "gary-leung/my-first-composer-package",
   "description": "My first package. ",
   "autoload": {
     "psr-4" : {
