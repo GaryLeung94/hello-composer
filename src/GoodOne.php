@@ -6,6 +6,8 @@
  * Time: 上午9:45
  */
 
+namespace GaryLeung\FirstComposer;
+
 class GoodOne
 {
 
